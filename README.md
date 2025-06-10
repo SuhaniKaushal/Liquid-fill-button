@@ -23,6 +23,7 @@ Animating the transform and top properties to simulate a smooth liquid fill.
 Swapping text color on hover for contrast.
 
 📁 Files Included
+
 index.html: Basic structure of the webpage.
 
 styles.css: All styles and animation logic.
